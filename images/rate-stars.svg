@@ -1,0 +1,531 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="108" viewBox="0 0 68 108">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="68" height="12" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="62" height="12" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect width="55" height="12" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect width="48" height="12" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <rect width="41" height="12" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <rect width="34" height="12" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <rect width="27" height="12" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <rect width="20" height="12" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <rect width="13" height="12" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_108" data-name="Group 108" transform="translate(-745 -869)">
+    <g id="Star12" transform="translate(745 965)">
+      <g id="star12-2" data-name="star12" clip-path="url(#clip-path)">
+        <g id="star18" transform="translate(0)">
+          <g id="Group_57" data-name="Group 57">
+            <rect id="Rectangle_6" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-2" data-name="star18" transform="translate(14)">
+          <g id="Group_57-2" data-name="Group 57">
+            <rect id="Rectangle_6-2" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-2" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-3" data-name="star18" transform="translate(28)">
+          <g id="Group_57-3" data-name="Group 57">
+            <rect id="Rectangle_6-3" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-3" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-4" data-name="star18" transform="translate(42)">
+          <g id="Group_57-4" data-name="Group 57">
+            <rect id="Rectangle_6-4" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-4" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-5" data-name="star18" transform="translate(56)">
+          <g id="Group_57-5" data-name="Group 57">
+            <rect id="Rectangle_6-5" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-5" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+      </g>
+      <g id="star12-3" data-name="star12" clip-path="url(#clip-path)">
+        <g id="star18-6" data-name="star18" transform="translate(0)">
+          <g id="Group_56" data-name="Group 56">
+            <rect id="Rectangle_6-6" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-6" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-7" data-name="star18" transform="translate(14)">
+          <g id="Group_56-2" data-name="Group 56">
+            <rect id="Rectangle_6-7" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-7" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-8" data-name="star18" transform="translate(28)">
+          <g id="Group_56-3" data-name="Group 56">
+            <rect id="Rectangle_6-8" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-8" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-9" data-name="star18" transform="translate(42)">
+          <g id="Group_56-4" data-name="Group 56">
+            <rect id="Rectangle_6-9" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-9" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-10" data-name="star18" transform="translate(56)">
+          <g id="Group_56-5" data-name="Group 56">
+            <rect id="Rectangle_6-10" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-10" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Star12-4" data-name="Star12" transform="translate(745 953)">
+      <g id="star12-5" data-name="star12" clip-path="url(#clip-path)">
+        <g id="star18-11" data-name="star18" transform="translate(0)">
+          <g id="Group_57-6" data-name="Group 57">
+            <rect id="Rectangle_6-11" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-11" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-12" data-name="star18" transform="translate(14)">
+          <g id="Group_57-7" data-name="Group 57">
+            <rect id="Rectangle_6-12" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-12" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-13" data-name="star18" transform="translate(28)">
+          <g id="Group_57-8" data-name="Group 57">
+            <rect id="Rectangle_6-13" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-13" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-14" data-name="star18" transform="translate(42)">
+          <g id="Group_57-9" data-name="Group 57">
+            <rect id="Rectangle_6-14" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-14" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-15" data-name="star18" transform="translate(56)">
+          <g id="Group_57-10" data-name="Group 57">
+            <rect id="Rectangle_6-15" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-15" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+      </g>
+      <g id="star12-6" data-name="star12" clip-path="url(#clip-path-4)">
+        <g id="star18-16" data-name="star18" transform="translate(0)">
+          <g id="Group_56-6" data-name="Group 56">
+            <rect id="Rectangle_6-16" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-16" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-17" data-name="star18" transform="translate(14)">
+          <g id="Group_56-7" data-name="Group 56">
+            <rect id="Rectangle_6-17" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-17" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-18" data-name="star18" transform="translate(28)">
+          <g id="Group_56-8" data-name="Group 56">
+            <rect id="Rectangle_6-18" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-18" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-19" data-name="star18" transform="translate(42)">
+          <g id="Group_56-9" data-name="Group 56">
+            <rect id="Rectangle_6-19" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-19" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-20" data-name="star18" transform="translate(56)">
+          <g id="Group_56-10" data-name="Group 56">
+            <rect id="Rectangle_6-20" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-20" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Star12-7" data-name="Star12" transform="translate(745 941)">
+      <g id="star12-8" data-name="star12" clip-path="url(#clip-path)">
+        <g id="star18-21" data-name="star18" transform="translate(0)">
+          <g id="Group_57-11" data-name="Group 57">
+            <rect id="Rectangle_6-21" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-21" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-22" data-name="star18" transform="translate(14)">
+          <g id="Group_57-12" data-name="Group 57">
+            <rect id="Rectangle_6-22" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-22" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-23" data-name="star18" transform="translate(28)">
+          <g id="Group_57-13" data-name="Group 57">
+            <rect id="Rectangle_6-23" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-23" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-24" data-name="star18" transform="translate(42)">
+          <g id="Group_57-14" data-name="Group 57">
+            <rect id="Rectangle_6-24" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-24" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-25" data-name="star18" transform="translate(56)">
+          <g id="Group_57-15" data-name="Group 57">
+            <rect id="Rectangle_6-25" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-25" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+      </g>
+      <g id="star12-9" data-name="star12" clip-path="url(#clip-path-6)">
+        <g id="star18-26" data-name="star18" transform="translate(0)">
+          <g id="Group_56-11" data-name="Group 56">
+            <rect id="Rectangle_6-26" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-26" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-27" data-name="star18" transform="translate(14)">
+          <g id="Group_56-12" data-name="Group 56">
+            <rect id="Rectangle_6-27" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-27" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-28" data-name="star18" transform="translate(28)">
+          <g id="Group_56-13" data-name="Group 56">
+            <rect id="Rectangle_6-28" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-28" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-29" data-name="star18" transform="translate(42)">
+          <g id="Group_56-14" data-name="Group 56">
+            <rect id="Rectangle_6-29" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-29" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Star12-10" data-name="Star12" transform="translate(745 929)">
+      <g id="star12-11" data-name="star12" clip-path="url(#clip-path)">
+        <g id="star18-30" data-name="star18" transform="translate(0)">
+          <g id="Group_57-16" data-name="Group 57">
+            <rect id="Rectangle_6-30" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-30" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-31" data-name="star18" transform="translate(14)">
+          <g id="Group_57-17" data-name="Group 57">
+            <rect id="Rectangle_6-31" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-31" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-32" data-name="star18" transform="translate(28)">
+          <g id="Group_57-18" data-name="Group 57">
+            <rect id="Rectangle_6-32" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-32" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-33" data-name="star18" transform="translate(42)">
+          <g id="Group_57-19" data-name="Group 57">
+            <rect id="Rectangle_6-33" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-33" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-34" data-name="star18" transform="translate(56)">
+          <g id="Group_57-20" data-name="Group 57">
+            <rect id="Rectangle_6-34" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-34" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+      </g>
+      <g id="star12-12" data-name="star12" clip-path="url(#clip-path-8)">
+        <g id="star18-35" data-name="star18" transform="translate(0)">
+          <g id="Group_56-15" data-name="Group 56">
+            <rect id="Rectangle_6-35" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-35" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-36" data-name="star18" transform="translate(14)">
+          <g id="Group_56-16" data-name="Group 56">
+            <rect id="Rectangle_6-36" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-36" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-37" data-name="star18" transform="translate(28)">
+          <g id="Group_56-17" data-name="Group 56">
+            <rect id="Rectangle_6-37" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-37" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-38" data-name="star18" transform="translate(42)">
+          <g id="Group_56-18" data-name="Group 56">
+            <rect id="Rectangle_6-38" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-38" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Star12-13" data-name="Star12" transform="translate(745 917)">
+      <g id="star12-14" data-name="star12" clip-path="url(#clip-path)">
+        <g id="star18-39" data-name="star18" transform="translate(0)">
+          <g id="Group_57-21" data-name="Group 57">
+            <rect id="Rectangle_6-39" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-39" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-40" data-name="star18" transform="translate(14)">
+          <g id="Group_57-22" data-name="Group 57">
+            <rect id="Rectangle_6-40" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-40" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-41" data-name="star18" transform="translate(28)">
+          <g id="Group_57-23" data-name="Group 57">
+            <rect id="Rectangle_6-41" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-41" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-42" data-name="star18" transform="translate(42)">
+          <g id="Group_57-24" data-name="Group 57">
+            <rect id="Rectangle_6-42" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-42" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-43" data-name="star18" transform="translate(56)">
+          <g id="Group_57-25" data-name="Group 57">
+            <rect id="Rectangle_6-43" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-43" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+      </g>
+      <g id="star12-15" data-name="star12" clip-path="url(#clip-path-10)">
+        <g id="star18-44" data-name="star18" transform="translate(0)">
+          <g id="Group_56-19" data-name="Group 56">
+            <rect id="Rectangle_6-44" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-44" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-45" data-name="star18" transform="translate(14)">
+          <g id="Group_56-20" data-name="Group 56">
+            <rect id="Rectangle_6-45" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-45" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-46" data-name="star18" transform="translate(28)">
+          <g id="Group_56-21" data-name="Group 56">
+            <rect id="Rectangle_6-46" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-46" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Star12-16" data-name="Star12" transform="translate(745 905)">
+      <g id="star12-17" data-name="star12" clip-path="url(#clip-path)">
+        <g id="star18-47" data-name="star18" transform="translate(0)">
+          <g id="Group_57-26" data-name="Group 57">
+            <rect id="Rectangle_6-47" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-47" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-48" data-name="star18" transform="translate(14)">
+          <g id="Group_57-27" data-name="Group 57">
+            <rect id="Rectangle_6-48" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-48" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-49" data-name="star18" transform="translate(28)">
+          <g id="Group_57-28" data-name="Group 57">
+            <rect id="Rectangle_6-49" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-49" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-50" data-name="star18" transform="translate(42)">
+          <g id="Group_57-29" data-name="Group 57">
+            <rect id="Rectangle_6-50" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-50" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-51" data-name="star18" transform="translate(56)">
+          <g id="Group_57-30" data-name="Group 57">
+            <rect id="Rectangle_6-51" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-51" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+      </g>
+      <g id="star12-18" data-name="star12" clip-path="url(#clip-path-12)">
+        <g id="star18-52" data-name="star18" transform="translate(0)">
+          <g id="Group_56-22" data-name="Group 56">
+            <rect id="Rectangle_6-52" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-52" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-53" data-name="star18" transform="translate(14)">
+          <g id="Group_56-23" data-name="Group 56">
+            <rect id="Rectangle_6-53" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-53" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-54" data-name="star18" transform="translate(28)">
+          <g id="Group_56-24" data-name="Group 56">
+            <rect id="Rectangle_6-54" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-54" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Star12-19" data-name="Star12" transform="translate(745 893)">
+      <g id="star12-20" data-name="star12" clip-path="url(#clip-path)">
+        <g id="star18-55" data-name="star18" transform="translate(0)">
+          <g id="Group_57-31" data-name="Group 57">
+            <rect id="Rectangle_6-55" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-55" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-56" data-name="star18" transform="translate(14)">
+          <g id="Group_57-32" data-name="Group 57">
+            <rect id="Rectangle_6-56" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-56" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-57" data-name="star18" transform="translate(28)">
+          <g id="Group_57-33" data-name="Group 57">
+            <rect id="Rectangle_6-57" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-57" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-58" data-name="star18" transform="translate(42)">
+          <g id="Group_57-34" data-name="Group 57">
+            <rect id="Rectangle_6-58" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-58" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-59" data-name="star18" transform="translate(56)">
+          <g id="Group_57-35" data-name="Group 57">
+            <rect id="Rectangle_6-59" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-59" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+      </g>
+      <g id="star12-21" data-name="star12" clip-path="url(#clip-path-14)">
+        <g id="star18-60" data-name="star18" transform="translate(0)">
+          <g id="Group_56-25" data-name="Group 56">
+            <rect id="Rectangle_6-60" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-60" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-61" data-name="star18" transform="translate(14)">
+          <g id="Group_56-26" data-name="Group 56">
+            <rect id="Rectangle_6-61" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-61" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Star12-22" data-name="Star12" transform="translate(745 881)">
+      <g id="star12-23" data-name="star12" clip-path="url(#clip-path)">
+        <g id="star18-62" data-name="star18" transform="translate(0)">
+          <g id="Group_57-36" data-name="Group 57">
+            <rect id="Rectangle_6-62" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-62" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-63" data-name="star18" transform="translate(14)">
+          <g id="Group_57-37" data-name="Group 57">
+            <rect id="Rectangle_6-63" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-63" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-64" data-name="star18" transform="translate(28)">
+          <g id="Group_57-38" data-name="Group 57">
+            <rect id="Rectangle_6-64" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-64" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-65" data-name="star18" transform="translate(42)">
+          <g id="Group_57-39" data-name="Group 57">
+            <rect id="Rectangle_6-65" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-65" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-66" data-name="star18" transform="translate(56)">
+          <g id="Group_57-40" data-name="Group 57">
+            <rect id="Rectangle_6-66" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-66" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+      </g>
+      <g id="star12-24" data-name="star12" clip-path="url(#clip-path-16)">
+        <g id="star18-67" data-name="star18" transform="translate(0)">
+          <g id="Group_56-27" data-name="Group 56">
+            <rect id="Rectangle_6-67" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-67" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+        <g id="star18-68" data-name="star18" transform="translate(14)">
+          <g id="Group_56-28" data-name="Group 56">
+            <rect id="Rectangle_6-68" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-68" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Star12-25" data-name="Star12" transform="translate(745 869)">
+      <g id="star12-26" data-name="star12" clip-path="url(#clip-path)">
+        <g id="star18-69" data-name="star18" transform="translate(0)">
+          <g id="Group_57-41" data-name="Group 57">
+            <rect id="Rectangle_6-69" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-69" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-70" data-name="star18" transform="translate(14)">
+          <g id="Group_57-42" data-name="Group 57">
+            <rect id="Rectangle_6-70" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-70" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-71" data-name="star18" transform="translate(28)">
+          <g id="Group_57-43" data-name="Group 57">
+            <rect id="Rectangle_6-71" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-71" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-72" data-name="star18" transform="translate(42)">
+          <g id="Group_57-44" data-name="Group 57">
+            <rect id="Rectangle_6-72" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-72" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+        <g id="star18-73" data-name="star18" transform="translate(56)">
+          <g id="Group_57-45" data-name="Group 57">
+            <rect id="Rectangle_6-73" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-73" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#e0e0e0"/>
+          </g>
+        </g>
+      </g>
+      <g id="star12-27" data-name="star12" clip-path="url(#clip-path-18)">
+        <g id="star18-74" data-name="star18" transform="translate(0)">
+          <g id="Group_56-29" data-name="Group 56">
+            <rect id="Rectangle_6-74" data-name="Rectangle 6" width="12" height="12" fill="none"/>
+            <path id="star-74" data-name="star" d="M9.918,12.075A.4.4,0,0,1,9.683,12L6.467,9.681,3.252,12a.4.4,0,0,1-.472,0,.4.4,0,0,1-.142-.448l1.254-3.7L.642,5.639a.4.4,0,0,1,.225-.726h4.01l1.21-3.7a.4.4,0,0,1,.761,0l1.21,3.706h4.01a.4.4,0,0,1,.226.726L9.042,7.856,10.3,11.55a.4.4,0,0,1-.054.359.4.4,0,0,1-.325.166Z" transform="translate(-0.468 -0.933)" fill="#999"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

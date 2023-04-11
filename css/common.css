@@ -1,0 +1,209 @@
+@charset "utf-8";
+
+/* 初始化标签在所有浏览器中的margin、padding值 */
+body, div, section, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, textarea, p, a, blockquote, th, td, input, select, textarea, button, img {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-weight: 400;
+    list-style: none;
+}
+
+/* 酌情修改 */
+body {
+    background-color: var(--gray05);
+    font-family: "SF Pro Display", "PingFang SC", "苹方", Microsoft YaHei, Source Han Sans SC, Noto Sans CJK SC, sans-serif;
+    font-weight: 400;
+    color: var(--gray60);
+}
+
+body, th, td, input, select, textarea, button {
+    font-size: 14px;
+    line-height: 1;
+}
+
+a {
+    text-decoration: none;
+    color: var(--gray60);
+}
+
+a:link {
+    text-decoration: none;
+    color: var(--gray60);
+    /* 指正常的未被访问过的链接*/
+}
+
+a:visited {
+    text-decoration: none;
+    color: var(--gray60);
+    /*指已经访问过的链接*/
+}
+
+a:hover {
+    text-decoration: none;
+    /*指鼠标在链接*/
+}
+
+a:active {
+    text-decoration: none;
+    /* 指正在点的链接*/
+}
+
+:root {
+    --blue10: #e9f3fd;
+    --blue20: #bedbf8;
+    --blue30: #93c3f4;
+    --blue40: #68acef;
+    --blue50: #3d94eb;
+    --blue60: #127ce6;
+
+    --green10: #effaed;
+    --green20: #d0f1c9;
+    --green30: #b0e8a5;
+    --green40: #91df81;
+    --green50: #71d55d;
+    --green60: #52cc39;
+
+    --gray05: #fafafa;
+    --gray10: #f0f0f0;
+    --gray20: #ececec;
+    --gray30: #e0e0e0;
+    --gray40: #c8c8c8;
+    --gray50: #999999;
+    --gray60: #767676;
+    --gray70: #404040;
+    --gray80: #181818;
+
+    --shadow01: 0 1px 2px rgba(0, 0, 0, 0.08);
+    --shadow02: 0 2px 2px rgba(0, 0, 0, 0.03),
+        0 4px 8px rgba(0, 0, 0, 0.08);
+    --shadow03: 0 4px 4px rgba(0, 0, 0, 0.03),
+        0 8px 16px rgba(0, 0, 0, 0.08);
+    --content: 1580px;
+
+}
+
+@media (max-width: 2000px) {
+    :root {
+        --content: 1180px;
+    }
+}
+
+@media (max-width: 1360px) {
+    :root {
+        --content: 780px;
+    }
+}
+
+/* side navigation bar*/
+
+.side-bar {
+    width: 92px;
+    height: 100%;
+    padding: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-right: 1px solid var(--gray20);
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+
+.nav {
+    height: 64px;
+    color: var(--gray50);
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 4px;
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.iconfont {
+    font-size: 22px;
+}
+
+.nav>h2 {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 3px;
+}
+
+.nav.nav-selected {
+    color: var(--blue50);
+}
+
+.nav:hover {
+    background-color: var(--blue10);
+    color: var(--blue50);
+}
+
+/* content */
+.content-wrap {
+    margin-left: 92px;
+    padding: 0px 40px;
+    /* overflow: auto; */
+}
+
+.content {
+    width: var(--content);
+    margin: 0 auto;
+}
+
+/* universal */
+.flex {
+    display: flex;
+}
+
+.card {
+    border-radius: 6px;
+    border: 1px solid var(--gray20);
+    box-shadow: var(--shadow01);
+    transition: 0.15s ease-in-out;
+}
+
+.card:hover {
+    border: 1px solid var(--gray30);
+    box-shadow: var(--shadow02);
+}
+
+
+
+.btn {
+    height: 32px;
+    padding: 0 24px;
+    border-radius: 4px;
+    font-size: 13px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: var(--blue60);
+    color: #fff;
+    cursor: pointer;
+}
+
+.btn-second {
+    border: 1px solid var(--gray30);
+    background-color: #fff;
+    color: var(--gray70);
+}
+
+.btn-second:hover {
+    background-color: var(--gray05);
+}
+
+.end {
+    color: var(--gray40);
+    text-align: center;
+    padding: 28px 0;
+}
+
+.hide {
+    display: none;
+}

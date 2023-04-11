@@ -1,0 +1,90 @@
+.rank-list {
+    padding: 12px 0;
+}
+
+.rank-item {
+    display: flex;
+    align-items: center;
+    padding: 12px 24px;
+    animation-name: left-in;
+    animation-duration: 0.3s;
+    /* animation-delay: 1s; */
+    animation-fill-mode: both;
+    animation-timing-function: ease-out;
+}
+
+.rank-item:hover {
+    background-color: var(--gray05);
+}
+
+.rank-item>img {
+    height: 60px;
+    width: 60px;
+}
+
+/* 排行 */
+.rank-item>h2 {
+    flex-shrink: 0;
+    margin: 0 8px;
+    padding-bottom: 18px;
+    display: inline-block;
+    width: 18px;
+    text-align: right;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--gray50);
+}
+
+.name-n-rate {
+    flex-shrink: 1;
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+/* 应用名称 */
+.rank-item h3 {
+    margin-bottom: 6px;
+    font-size: 14px;
+    color: var(--gray80);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.rank-item .rate {
+    position: static;
+    height: 12px;
+}
+
+.rank-item>.btn {
+    position: static;
+    bottom: -14px;
+    width: 80px;
+    justify-self: end;
+    /* margin-top: 14px; */
+}
+
+@keyframes left-in {
+    from {
+        transform: translateX(-60px);
+        opacity: 0;
+
+    }
+
+    to {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+@keyframes right-in {
+    from {
+        transform: translateX(60px);
+        opacity: 0;
+
+    }
+
+    to {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}

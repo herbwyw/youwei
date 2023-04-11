@@ -1,68 +1,173 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#000000">
-    <meta name="description" content="Web site created using CloudBase Webify">
-    <title>Hello Webify！</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-                'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-                sans-serif;
-            -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
-        }
-        code {
-            font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-                monospace;
-        }
-        .App {
-            text-align: center;
-        }
-
-        .App-logo {
-            height: 40vmin;
-            pointer-events: none;
-        }
-
-        @media (prefers-reduced-motion: no-preference) {
-            .App-logo {
-                animation: App-logo-spin infinite 20s linear;
-            }
-        }
-
-        .App-header {
-            background-color: #efefef;
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            font-size: calc(10px + 2vmin);
-            color: black;
-        }
-
-        .App-link {
-            color: #108ee9;
-        }
-    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>云市场-首页</title>
+    <link rel="stylesheet" href="https://cdn3.codesign.qq.com/icons/q6W3G0mYPp0lOwL/latest/iconfont.css">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/goods-card.css">
+    <link rel="stylesheet" href="css/goods-rank.css">
 </head>
 
+
 <body>
-    <div id="root">
-        <div class="App">
-            <header class="App-header">
-                <img src="https://main.qcloudimg.com/raw/2f3b21706c37e8685efe5c60b26ceb24.png" class="App-logo" alt="logo">
-                <p>Welcome to Webify！</p>
-                <a class="App-link" href="https://webify.cloudbase.net/"
-                    target="_blank" rel="noopener noreferrer">webify.cloudbase.net</a>
-            </header>
+    <!-- side navigation bar-->
+    <section class="side-bar">
+        <div class="above-wrapper">
+            <a class="nav nav-selected" id="home" href="index.html">
+                <span class="iconfont icon-nav-home"></span>
+                <h2>Home</h2>
+            </a>
+
+            <a class="nav" id="all-apps" href="html/all-apps.html">
+                <span class="iconfont icon-nav-all-apps"></span>
+                <h2>All</h2>
+            </a>
+
+            <a class="nav" id="got" href="html/got.html">
+                <span class="iconfont icon-nav-got"></span>
+                <h2>Got</h2>
+            </a>
+
+            <a class="nav" id="record" href="html/record.html">
+                <span class="iconfont icon-nav-record"></span>
+                <h2>Record</h2>
+            </a>
+
+            <a class="nav" id="search" href="html/search.html">
+                <span class="iconfont icon-nav-search"></span>
+                <h2>Search</h2>
+            </a>
+
         </div>
+
+        <a class="nav info" href="html/info.html">
+            <span class="iconfont icon-nav-info"></span>
+            <h2>Info</h2>
+        </a>
+    </section>
+
+    <!-- features -->
+    <div class="content-wrap">
+        <section class="content">
+            <section class="features">
+                <div class="main-tittle flex">
+                    <h1>Features</h1>
+                    <a href="">View All
+                        <span class="iconfont icon-chevron-right"></span>
+                    </a>
+                </div>
+                <div class="feature-cards">
+                    <div class="scroll" id="scroll-feature">
+                        <div class="card" id="fea1">
+                            <div class="gradient">
+                                <h2>New in Sept.</h2>
+                            </div>
+                        </div>
+
+                        <div class="card" id="fea2">
+                            <div class="gradient">
+                                <h2>Data integration</h2>
+                            </div>
+                        </div>
+
+                        <div class="card" id=fea3>
+                            <div class="gradient">
+                                <h2>Office tools</h2>
+                            </div>
+                        </div>
+
+                        <div class="card" id="fea4">
+                            <div class="gradient">
+                                <h2>Desk decoration</h2>
+                            </div>
+                        </div>
+                        <div class="card" id="fea5">
+                            <div class="gradient">
+                                <h2>Digital Manager</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="white-mask left">
+                    <div class="slide-button left">
+                        <span class="iconfont icon-chevron-left"></span>
+                    </div>
+                </div>
+                <div class="white-mask right">
+                    <div class="slide-button right">
+                        <span class="iconfont icon-chevron-right"></span>
+                    </div>
+                </div>
+
+            </section>
+
+            <div class="grid-warp">
+                <section class="recomend">
+                    <div class="main-tittle flex">
+                        <h1>Editor's Chioce</h1>
+                    </div>
+                    <div class="cards-container recomend">
+                        <!-- <div class="card goods-card">
+                            <a href="html/detail.html/id=1">
+                                <div class="blur-wrap">
+                                    <div class="blur"></div>
+                                </div>
+                                <div class="icon-80"></div>
+                                <h3>App Name</h3>
+                                <h4>Type</h4>
+                                <div class="rate">0</div>
+                            </a>
+                            <button type="button" class="btn btn-second hide">Apply</button>
+                        </div> -->
+
+                    </div>
+                    <div class="end">It's the end.</div>
+                </section>
+
+                <section class="rank">
+                    <div class="main-tittle">
+                        <h1>Popular</h1>
+                    </div>
+                    <div class="rank-container">
+                        <div class="tab-container" id="tab1">
+                            <ul class="tab-list tab-type">
+                                <li class="tab-selected">All</li>
+                                <li>App</li>
+                                <li>Service</li>
+                                <li>Front end</li>
+                                <li>Function</li>
+                                <li>Theme</li>
+                                <li>Algorim model</li>
+                            </ul>
+                            <div class="line">
+                                <div class="line-selected"></div>
+                            </div>
+                        </div>
+                        <div class="rank-list" id="rank-list">
+                            <!-- <div class="rank-tiem">
+                                <img src="images/goods/1.png">
+                                <h2>1</h2>
+                                <div class="name-n-rate">
+                                    <h3>AppName</h3>
+                                    <div class="rate">0</div>
+                                </div>
+                                <button type="button" class="btn btn-second hide">Apply</button>
+                            </div> -->
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </section>
     </div>
+
+    <script type="text/javascript" src="js/goods.js"></script>
+    <script type="text/javascript" src="js/addItem.js"></script>
+    <script type="text/javascript" src="js/scroll.js"></script>
+    <script type="text/javascript" src="js/tab.js"></script>
 </body>
 
 </html>
